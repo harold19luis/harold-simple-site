@@ -8,7 +8,7 @@
             "type": "assets"
         }
     },
-    "dfx": "0.21.0",
+    "dfx": "16.20.2",
     "version": 1,
     "networks": {
         "local": {
